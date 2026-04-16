@@ -11,7 +11,7 @@ pubDate: '2024-01-05'
 
 - 2 ovos
 - 1 lata de leite condensado
-- 1 lata de leite
+- 1 medida de leite (use a lata de leite condensado vazia como medida)
 
 ### Calda
 
@@ -20,7 +20,7 @@ pubDate: '2024-01-05'
 
 ## Modo de Preparo
 
-1. Misture todos os ingredientes do pudim em um liquidificador e bata por pelo menos 5 minutos.
-2. Faça a calda de caramelo e coloque na assadeira de pudim.
-3. Coloque a mistura do pudim na assadeira.
-4. Asse em banho-maria por 45 minutos.
+1. Misture todos os ingredientes do pudim no liquidificador e bata por pelo menos 5 minutos.
+2. Para a calda, coloque o açúcar em uma panela em fogo médio e mexa até derreter e ficar dourado. Se usar água, adicione-a no início junto com o açúcar. Despeje a calda na forma de pudim e espalhe por todo o fundo.
+3. Despeje a mistura do pudim sobre a calda.
+4. Asse em banho-maria em forno preaquecido a 180°C por 45 minutos, ou até que ao espetar um palito, ele saia limpo.

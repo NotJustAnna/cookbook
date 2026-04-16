@@ -3,6 +3,7 @@ title: 'Cheesecake de Morango'
 description: 'Cheesecake cremoso com base de bolacha e cobertura de morango'
 category: 'Doces'
 pubDate: '2024-01-04'
+heroImage: ./images/cheesecake-de-morango.jpg
 ---
 
 ## Ingredientes

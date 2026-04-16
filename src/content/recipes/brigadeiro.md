@@ -1,6 +1,6 @@
 ---
 title: 'Brigadeiro'
-description: 'O clássico doce brasileiro de chocolate com leite condensado'
+description: 'Receita premiada do programa Mais Você (TV Globo)'
 category: 'Doces'
 pubDate: '2024-01-01'
 ---
