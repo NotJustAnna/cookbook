@@ -1,5 +1,5 @@
-// Place any global data in this file.
-// You can import this data from anywhere in your site by using the `import` keyword.
+export const SITE_TITLE = 'Livro de Receitas';
+export const SITE_DESCRIPTION = 'Receitas caseiras da nossa cozinha';
 
-export const SITE_TITLE = 'Astro Blog';
-export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const CATEGORIES = ['Doces', 'Pratos Principais', 'Pães', 'Acompanhamentos'] as const;
+export type Category = (typeof CATEGORIES)[number];
