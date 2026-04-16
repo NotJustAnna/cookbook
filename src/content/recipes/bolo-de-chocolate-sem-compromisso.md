@@ -17,5 +17,7 @@ pubDate: '2024-01-03'
 
 ## Modo de Preparo
 
-1. Bater tudo no liquidificador.
-2. Assar por 30-40 minutos.
+1. Preaqueça o forno a 180°C. Unte uma forma com manteiga e polvilhe com cacau ou farinha de trigo.
+2. Bata todos os ingredientes no liquidificador até obter uma massa homogênea.
+3. Despeje a massa na forma preparada.
+4. Asse por 30 a 40 minutos ou até que, ao espetar um palito, ele saia limpo.

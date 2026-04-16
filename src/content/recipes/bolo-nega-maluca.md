@@ -25,5 +25,5 @@ pubDate: '2024-01-02'
 
 ## Modo de Preparo
 
-1. Misture todos os ingredientes da massa e leve pra assar em uma assadeira untada e polvilhada com chocolate em pó.
-2. Cortar o bolo em tiras, furar e despejar o creme. Deixar na geladeira por 1½ hora.
+1. Misture todos os ingredientes da massa e despeje em uma assadeira untada e polvilhada com chocolate em pó. Asse em forno preaquecido a 180°C por cerca de 35 minutos, ou até que ao espetar um palito, ele saia limpo.
+2. Corte o bolo em tiras, fure com um garfo e despeje o creme por cima. Leve à geladeira por 1 hora e meia.

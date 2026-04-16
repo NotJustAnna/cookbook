@@ -11,10 +11,10 @@ pubDate: '2024-01-10'
 - 2 copos de polvilho doce
 - 2 ovos
 - Sal
-- Leite até ponto de enrolar
+- Leite (adicione aos poucos até a massa ficar macia e dar ponto de enrolar)
 
 ## Modo de Preparo
 
-1. Amassar todos os ingredientes.
-2. Untar a mão com óleo e fazer bolinhas.
-3. Assar em forno médio por 20-30 minutos.
+1. Amasse todos os ingredientes, adicionando o leite aos poucos até a massa ficar homogênea e macia.
+2. Unte as mãos com óleo e faça bolinhas.
+3. Asse em forno preaquecido a 180°C por 20 a 30 minutos, ou até dourarem.

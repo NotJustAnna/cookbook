@@ -3,13 +3,32 @@ const today = new Date();
 ---
 
 <footer>
-	&copy; {today.getFullYear()} Anna Silva. Feito com carinho.
+	<p class="attribution">&copy; {today.getFullYear()} Anna Silva</p>
+	<p class="license">
+		Conteúdo licenciado sob
+		<a
+			href="https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+			target="_blank"
+			rel="noopener noreferrer">CC BY 4.0</a
+		>
+	</p>
 </footer>
 <style>
 	footer {
-		padding: 2em 1em 6em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+		padding: 3em 1em 4em;
 		text-align: center;
+		color: var(--ink-faint);
+		font-size: 0.85em;
+	}
+	footer p {
+		margin: 0;
+		line-height: 1.6;
+	}
+	footer a {
+		color: var(--ink-light);
+		text-decoration-color: var(--rule);
+	}
+	footer a:hover {
+		color: var(--accent);
 	}
 </style>

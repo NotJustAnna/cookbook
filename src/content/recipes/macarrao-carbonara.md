@@ -7,10 +7,10 @@ pubDate: '2024-01-07'
 
 ## Ingredientes
 
-- Bacon
+- 200g de bacon em cubos
 - 2 a 3 ovos
 - Sal, pimenta e alho a gosto
-- Macarrão
+- Meio pacote de espaguete (ou macarrão de sua preferência)
 
 ## Modo de Preparo
 
